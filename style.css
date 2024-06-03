@@ -153,6 +153,9 @@ body{
     margin-left: 50px;
     font-size: 22px;
   }
+ #media{
+    margin-left: 79px;
+  }
 
 /* Keyframe animations  */
 
@@ -343,6 +346,20 @@ body{
     .topnav .icon {
         margin-left: 20px;
       }
+
+     .About{
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 98%;
+        padding: 0px;
+        font-size: 12px;
+    }
+    #about{
+        margin-left: 20px;
+    }
+    #media{
+        margin-left: 3px;
+    }
     
     
 }
